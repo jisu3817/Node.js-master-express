@@ -5,7 +5,7 @@
 - 라우트
 - 미들웨어
 
-> express 사용하기
+> express 사용
 
 ```jsx
 //express 모듈 설치하기
